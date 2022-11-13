@@ -1,2 +1,2 @@
 # medical_data_visualizer
-FreeCodeCamp Project 2
+FreeCodeCamp Project 3
